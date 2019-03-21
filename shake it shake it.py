@@ -1,5 +1,5 @@
-#Код проекта из Kaggle по сореванованию "землетрясение"
-#Изначально код был в формате Jupiter Notebook
+#РћРґРёРЅ РёР· РјРѕРёС… РїСЂРѕРµРєС‚РѕРІ РЅР° Kaggle
+#РР·РЅР°С‡Р°Р»СЊРЅРѕ РѕРЅ Р±С‹Р» РІ С„РѕСЂРјР°С‚Рµ Jupiter Notebook
 
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
